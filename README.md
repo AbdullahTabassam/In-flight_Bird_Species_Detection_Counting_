@@ -2,9 +2,23 @@
 
 Welcome to the repository for the In-flight Bird Species Detection and Counting project! This project, developed as part of an MSc thesis, focuses on utilizing object detection models for the categorization, species detection, and counting of birds. By leveraging computer vision techniques, this project aims to contribute to wildlife conservation and research efforts.
 
-## Video Demo
-
+## Demo
+### Video 
 Check out our project in action in the video demo: [Video Demo](https://www.linkedin.com/posts/abdullah-ikram-ullah-tabassam-1103b021b_computervision-birdconservation-innovationinscience-activity-7102575697251987456-6Z-r?utm_source=share&utm_medium=member_desktop)
+
+### Images
+A few detection images are as follows:
+<div>
+<img src="https://github.com/AbdullahTabassam/In-flight_Bird_Species_Detection_Counting_/blob/master/images/Image%20(1).jpg" alt="Image" height="250" width="250">
+<img src="https://github.com/AbdullahTabassam/In-flight_Bird_Species_Detection_Counting_/blob/master/images/Image%20(2).jpg" alt="Image" height="250" width="250">
+<img src="https://github.com/AbdullahTabassam/In-flight_Bird_Species_Detection_Counting_/blob/master/images/Image%20(3).jpg" alt="Image" height="250" width="250">
+
+</div>
+<div>
+<img src="https://github.com/AbdullahTabassam/In-flight_Bird_Species_Detection_Counting_/blob/master/images/Image%20(5).jpg" alt="Image" height="250" width="250">
+<img src="https://github.com/AbdullahTabassam/In-flight_Bird_Species_Detection_Counting_/blob/master/images/Image%20(10).jpg" alt="Image" height="250" width="250">
+<img src="https://github.com/AbdullahTabassam/In-flight_Bird_Species_Detection_Counting_/blob/master/images/Image%20(4).jpg" alt="Image" height="250" width="250">
+</div>
 
 ## Overview
 
